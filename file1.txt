@@ -4,8 +4,6 @@ Hello World
 
 a new line
 
-<<<<<<< HEAD
 Nicole's change
-=======
+
 final changes - swetha
->>>>>>> f23c6ef18e06875c15c6692c1625f023e1bf797b
